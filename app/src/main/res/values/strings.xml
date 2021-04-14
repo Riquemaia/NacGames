@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NacGames</string>
+    <string name="fiapgames">fiapgames</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="cadastro_games">Cadastro Games</string>
+    <string name="cadastro_game">Cadastro Game</string>
+    <string name="nome_jogo">Nome do jogo</string>
+    <string name="nome_console">Nome do console</string>
+    <string name="nota_game">Nota do game. Ex: 8</string>
+    <string name="counter_strike">Counter Strike</string>
+    <string name="produtoraCS">Valve</string>
+    <string name="produtoraVa">Riot</string>
+    <string name="produtoraRL">Psyonix</string>
+    <string name="valorant">Valorant</string>
+    <string name="rocket">Rocket League</string>
+    <string name="PlatafomaPC">Computador</string>
+    <string name="PlataformaMobile">Celular</string>
+    <string name="PlataformaConsole">Console</string>
+    <string name="Nota10">10</string>
+    <string name="Nota9">9</string>
+    <string name="Nota8">8</string>
+    <string name="Nota7">7</string>
+    <string name="Nota6">6</string>
+    <string name="adicionar_frase">Adiciona um item na lista</string>
+</resources>
